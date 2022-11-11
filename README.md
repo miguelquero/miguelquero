@@ -18,7 +18,7 @@ You can reach me at **miguelquerocar@hotmail.com** or in some of my social media
 <br>
 
 ## My Tech Stacks 🖥️⛏️
-[![My Skills](https://skillicons.dev/icons?i=bash,git,github,java,jquery,linux,mysql,py,r,regex,sass,vscode,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,bash,linux,regex,git,github,js,jquery,java,mysql,html,css,sass,vscode)](https://skillicons.dev)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelquero&layout=compact&langs_count=10&theme=react&line_height=40)](https://github.com/miguelquero/github-readme-stats)
